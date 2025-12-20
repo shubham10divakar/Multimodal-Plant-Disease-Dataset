@@ -1,19 +1,19 @@
 # Multimodal-Plant-Disease-Dataset
 This is the repo of the multimodal plant disease dataset which is the first of its kind in the world in this domain(plant disease) as of NOV 2023.
 
-The dataset is available publicly at Kaggle.
+The dataset is also available publicly at Kaggle.
 https://www.kaggle.com/datasets/shubhamdivakar/multimodal-plant-disease-dataset-by-subham-divakar
 
-If you are using this datset please cite this paper below:-
+## 📖 Citation and Dataset Origin
 
-## 📖 Citation
+The **PlantFusion dataset** is an integral part of the research work presented and published in the following paper.
 
-If you use the **PlantFusion dataset** or the proposed **hybrid multimodal deep learning framework** in your research, please cite the following paper:
+If you use the **PlantFusion dataset** and/or the proposed **hybrid multimodal deep learning framework**, please cite this paper:
 
 > **PlantFusion: A Novel Multimodal Dataset and Hybrid Multimodal Deep Learning Framework**  
 > Subham Divakar, Rojalina Priyadarshini, Satyaban Behera, Deepti Mishra, Rabindra K. Barik  
-> *IEEE Conference Proceedings*  
-> [IEEE Xplore Link](https://ieeexplore.ieee.org/document/11211069)
+> *Published in IEEE Conference Proceedings*  
+> [IEEE Xplore](https://ieeexplore.ieee.org/document/11211069)
 
 ### BibTeX
 ```bibtex
@@ -25,4 +25,5 @@ If you use the **PlantFusion dataset** or the proposed **hybrid multimodal deep 
   publisher = {IEEE},
   url       = {https://ieeexplore.ieee.org/document/11211069}
 }
+
 
